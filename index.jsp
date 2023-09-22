@@ -1,7 +1,7 @@
 <%-- 
     Document   : index.jsp
     Created on : Sep 11, 2016, 12:39:17 AM
-    Author     : Punit
+    Author     : Parminder and Harkirat
     Description: Contains the first page with the selection options for the user
     The options and the contents of the page are self explanatory.
 --%>
