@@ -2,7 +2,7 @@
     Document   : thirdpartyapidashboard
     referred following link for constructing an html table: http://www.w3schools.com/tags/tryit.asp?filename=tryhtml_table_border
     Created on : Nov 6, 2016, 2:14:59 AM
-    Author     : Punit
+    Author     : Parminder and Harkirat
     This page displays the attributes of the request response from the servlet with the third party API
     The options and the contents of the page are self explanatory.
 --%>
