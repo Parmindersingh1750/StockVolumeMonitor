@@ -16,7 +16,7 @@ import javax.servlet.http.HttpServletResponse;
 
 /**
  * Following is the servlet which will be called from the pages for the dashboard. It serves as controller and calls ReadLogInformationModel
- * @author Punit
+ * @author Parminder and Harkirat
  */
 
 @WebServlet(name = "ReadLogInformationServlet", urlPatterns = {"/submit", "/getThirdPartyInformation"})
