@@ -1,7 +1,7 @@
 <%-- 
     Document   : unsupportedtickercalldashboard
     Created on : Nov 6, 2016, 2:25:31 AM
-    Author     : Punit
+    Author     : Parminder and Harkirat
     Referred following link for constructing an html table: http://www.w3schools.com/tags/tryit.asp?filename=tryhtml_table_border
     This page displays any tickers currently unsupported by our API. This page will serve the business purpose of deciding which all
     tickers should be supported further in future enhancements.
