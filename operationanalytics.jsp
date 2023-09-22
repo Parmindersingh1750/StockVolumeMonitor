@@ -1,7 +1,7 @@
 <%-- 
     Document   : operationanalytics
     Created on : Nov 6, 2016, 3:20:02 AM
-    Author     : Punit
+    Author     : Parminder and Harkirat
     This page shows the values of any interesting operation analytics can could be useful for the administration.
     The options and the contents of the page are self explanatory.
 --%>
