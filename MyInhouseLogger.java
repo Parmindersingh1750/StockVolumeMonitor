@@ -15,7 +15,7 @@ import java.util.Map;
 /**
  *
  * MyInhouseLogger - this class will serve as the model to store the logging information the mongo DB
- * @author Punit
+ * @author Parminder and Harkirat
  * Resolved class not found issues after referring to:
  * http://stackoverflow.com/questions/29729331/how-to-resolve-classnotfoundexception-com-mongodb-connection-bufferprovider
  * 
